@@ -1,1 +1,2 @@
-# https://mirai-page.github.io
+# mirai-page
+
